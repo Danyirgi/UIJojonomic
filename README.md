@@ -13,3 +13,5 @@ Automation test ui using cypress
    ```sh
    npx cypress open
    ```
+   - Select e2e testing
+   - Select e2e testing in chrome
