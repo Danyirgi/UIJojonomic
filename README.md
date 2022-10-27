@@ -1,4 +1,4 @@
-Getting started 
+## 📘&nbsp; Getting started 
 Automation test ui using cypress
 
 1. Clone the repo
